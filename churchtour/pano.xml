@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node3" appversion="6.1.1" apprev="17856">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="2268" levelingroll="0" height="2268" levelbias="0.400" overlap="1">
+      <level width="2268" preload="0" predecode="0" height="2268"/>
+      <level width="1134" preload="0" predecode="0" height="1134"/>
+      <level width="567" preload="0" predecode="0" height="567"/>
+      <level width="283" preload="1" predecode="1" height="283"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata author="" latitude="" longitude="" customnodeid="" description="This tour is based around the back of the Mormon church located two blocks east of the Provo City Center Temple." info="" title="Back Door" copyright="" datetime="11/8/19 2:56 PM" comment="" source="" tags="" nodeid="node1"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" width="180" border="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot tilt="-7.3" pan="-132.37" description="" target="128.4/12.3/70.0" skinid="ht_node" id="Point01" title="Go to Close and Personal" url="{node3}"/>
+      <hotspot tilt="-0.23" pan="-66.89" description="Mormon churches aren't so different from regular old churches. Inside is a plethora of things to help aide the progress of life." target="" skinid="ht_image" id="Point02" title="Inside the Building" url="images/description.jpg"/>
+    </hotspots>
+    <media>
+      <video nodechangekeep="0" clickmode="2" height="360" loop="1" stretch="1.000" level="1.000" roty="-2.000" tiltsize="10.000" rotz="0.000" startmutedmobile="0" mode="3" fov="17.610" width="640" id="Element01" pansize="10.000" ambientlevel="0.000" rotx="0.000" handcursor="1" pan="-83.690" tilt="10.130" field="90.000">
+        <source url="media/videoplayback.mp4"/>
+      </video>
+    </media>
+    <transition zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomin="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1" softedge="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="2266" levelingroll="0" height="2266" levelbias="0.400" overlap="1">
+      <level width="2266" preload="0" predecode="0" height="2266"/>
+      <level width="1133" preload="0" predecode="0" height="1133"/>
+      <level width="566" preload="0" predecode="0" height="566"/>
+      <level width="283" preload="1" predecode="1" height="283"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata author="" latitude="" longitude="" customnodeid="" description="This tour is based around the back of the Mormon church located two blocks east of the Provo City Center Temple." info="" title="Full Back Area" copyright="" datetime="11/8/19 2:42 PM" comment="" source="" tags="" nodeid="node2"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" width="180" border="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot tilt="-5.81" pan="-338.48" description="" target="128.4/12.3/70.0" skinid="ht_node" id="Point01" title="Go to Close and Personal" url="{node3}"/>
+      <hotspot tilt="5.1" pan="-270.38" description="Across the wide parking-lot, across the street, there's a large parking garage for all of your shopping needs just downtown." target="" skinid="ht_image" id="Point02" title="Parking Garage" url="images/download-1.jpg"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.700" pan="-192.260" mode="3" level="1.000" startmutedmobile="0" id="Element01" pansize="10.000" field="90.000" loop="0" ambientlevel="0.000" nodechangekeep="0">
+        <source url="media/BMW+DRIVEBY.mp3"/>
+      </sound>
+      <sound tiltsize="10.000" tilt="3.160" pan="-15.380" mode="5" level="1.000" startmutedmobile="0" id="Element02" pansize="10.000" field="90.000" loop="0" ambientlevel="0.000" nodechangekeep="0">
+        <source url="media/Heavenly Choir Sound Effect.mp3"/>
+      </sound>
+      <lensflare type="6" tilt="32.810" pan="-94.330" id="Lensflare01" alpha="80.000" color="0xffffff" blinding="50.000"/>
+    </media>
+    <transition zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomin="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1" softedge="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" width="2268" levelingroll="0" height="2268" levelbias="0.400" overlap="1">
+      <level width="2268" preload="0" predecode="0" height="2268"/>
+      <level width="1134" preload="0" predecode="0" height="1134"/>
+      <level width="567" preload="0" predecode="0" height="567"/>
+      <level width="283" preload="1" predecode="1" height="283"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="12.3256" pan="128.402" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata author="" latitude="" longitude="" customnodeid="" description="This tour is based around the back of the Mormon church located two blocks east of the Provo City Center Temple." info="" title="Close and Personal" copyright="" datetime="11/8/19 2:52 PM" comment="" source="" tags="" nodeid="node3"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" width="180" border="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot tilt="-6.53" pan="-321.59" description="" target="-174.8/-6.7/70.0" skinid="ht_node" id="Point01" title="Go to Full Back Area" url="{node2}"/>
+      <hotspot tilt="-5.08" pan="-194.98" description="" target="-4.7/1.3/70.0" skinid="ht_node" id="Point02" title="Back Door" url="{node1}"/>
+      <hotspot tilt="0.23" pan="-247.61" description="Freedom Church is a Christ-Following, Gospel-Centered, Disciple-Making, Missional community in Provo, UT. Our responsibility as a local church is to live, celebrate, and advance the message of Jesus in our community, state, and world. (Matthew 28:18-20) Come and see how Jesus is at work, changing the hearts and lives of His people and impacting the world for His Kingdom!&#xa;&#xa;" target="" skinid="ht_info" id="Point03" title="About" url="https://www.yellowpages.com/"/>
+      <hotspot tilt="-0.15" pan="-254.41" description="" target="_blank" skinid="ht_url" id="Point04" title="Web Site" url="https://www.yellowpages.com/provo-ut/mip/freedom-church-517665704"/>
+    </hotspots>
+    <media>
+      <image tilt="2.640" stretch="1.000" clickmode="0" pan="-350.660" width="225" handcursor="0" roty="0.000" id="Element01" height="224" rotx="-17.000" rotz="0.000" fov="10.974">
+        <source url="media/download-2.jpg"/>
+      </image>
+      <lensflare type="6" tilt="17.140" pan="-201.420" id="Lensflare01" alpha="80.000" color="0xffffff" blinding="50.000"/>
+    </media>
+    <transition zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomin="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1" softedge="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" simulatemass="1" lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" dblclickfullscreen="0" rubberband="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" latitude="" longitude="" customnodeid="" description="This tour is based around the back of the Mormon church located two blocks east of the Provo City Center Temple." info="" title="Provo Church" copyright="" datetime="" comment="" source="" tags="" nodeid="master"/>
+  </masternode>
+</tour>
